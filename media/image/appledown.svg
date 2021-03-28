@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109.691" height="39.285" viewBox="0 0 109.691 39.285">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="109.691" height="39.285" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_8" data-name="Repeat Grid 8" clip-path="url(#clip-path)">
+    <g transform="translate(-1590.154 -19.613)">
+      <text id="حمل_الان" data-name="حمل الان" transform="translate(1605.337 33.613)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">حمل الان</tspan></text>
+      <g id="Group_24377" data-name="Group 24377" transform="translate(1552.388 34.014)">
+        <g id="Group_24" data-name="Group 24" transform="translate(0 0)">
+          <g id="Group_23" data-name="Group 23" transform="translate(37.766 8.884)">
+            <text id="App_Store" data-name="App Store" transform="translate(0 13)" fill="#fff" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">App Store</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="XMLID_228_" transform="translate(1669.376 19.613)">
+        <path id="XMLID_229_" d="M29.448,77.185c-3.152,5.47-1.148,13.771,2.337,18.8,1.74,2.516,3.5,4.775,5.914,4.775l.138,0a7.3,7.3,0,0,0,2.745-.732,7.516,7.516,0,0,1,3.251-.771,7.069,7.069,0,0,1,3.095.746,6.557,6.557,0,0,0,2.965.711c2.718-.051,4.386-2.488,5.859-4.638a20.559,20.559,0,0,0,2.567-5.258l.011-.033a.306.306,0,0,0-.162-.375l-.022-.01a7.79,7.79,0,0,1-4.721-7.134,8.019,8.019,0,0,1,3.789-6.7l.03-.019a.306.306,0,0,0,.087-.429,8.819,8.819,0,0,0-6.936-3.767c-.2-.02-.4-.03-.605-.03a12.091,12.091,0,0,0-4.353,1.087,7,7,0,0,1-2.085.623,6.823,6.823,0,0,1-2.157-.631,10.452,10.452,0,0,0-3.8-.966h-.1A9.322,9.322,0,0,0,29.448,77.185Z" transform="translate(-27.875 -63.479)" fill="#fff"/>
+        <path id="XMLID_230_" d="M156.9,0a8.513,8.513,0,0,0-5.62,2.883A7.976,7.976,0,0,0,149.259,8.8a.306.306,0,0,0,.279.265c.13.01.263.015.4.015a7.2,7.2,0,0,0,5.3-2.721A8.409,8.409,0,0,0,157.214.272.308.308,0,0,0,156.9,0Z" transform="translate(-134.378 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

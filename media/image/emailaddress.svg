@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="85" height="85" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_9" data-name="Repeat Grid 9" clip-path="url(#clip-path)">
+    <g transform="translate(51 54.274)">
+      <rect id="Rectangle_6380" data-name="Rectangle 6380" width="85" height="85" rx="6" transform="translate(-51 -54.274)" fill="#fcb4ff" opacity="0.47"/>
+      <g id="Iconly_Bold_Message" data-name="Iconly/Bold/Message" transform="translate(-34 -37.274)">
+        <g id="Message" transform="translate(3.738 5.612)">
+          <path id="Message-2" data-name="Message" d="M30.74,37.412H10.411A10.466,10.466,0,0,1,0,26.916V10.5A10.466,10.466,0,0,1,10.411,0H30.74A10.457,10.457,0,0,1,41.153,10.5v16.42A10.467,10.467,0,0,1,30.74,37.412ZM8.3,10.9a1.5,1.5,0,0,0-1.1.467,1.6,1.6,0,0,0-.146,2.078l.27.269L16.687,21.1A6.4,6.4,0,0,0,20.7,22.509,6.5,6.5,0,0,0,24.73,21.1l9.284-7.5.165-.166a1.621,1.621,0,0,0-.024-2.078,1.7,1.7,0,0,0-1.087-.541l-.087,0a1.554,1.554,0,0,0-1.069.418l-9.278,7.482a3.2,3.2,0,0,1-2.051.749,3.256,3.256,0,0,1-2.064-.749L9.259,11.224A1.59,1.59,0,0,0,8.3,10.9Z" transform="translate(0 0)" fill="#fd4463"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

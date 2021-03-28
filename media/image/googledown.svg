@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156.319" height="39.999" viewBox="0 0 156.319 39.999">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="156.319" height="39.999" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_7" data-name="Repeat Grid 7" clip-path="url(#clip-path)">
+    <g transform="translate(-1566.84 -19.613)">
+      <text id="حمل_الان" data-name="حمل الان" transform="translate(1625.022 33.613)" fill="#360083" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">حمل الان</tspan></text>
+      <g id="playstore" transform="translate(1689.062 21.836)">
+        <g id="Group_21" data-name="Group 21" transform="translate(0 0.001)">
+          <path id="Path_666" data-name="Path 666" d="M72.489,12.892C68.126,10.452,61.125,6.534,50.264.453a2.618,2.618,0,0,0-2.3-.3L66.6,18.786Z" transform="translate(-46.171 -0.012)" fill="#32bbff"/>
+          <path id="Path_667" data-name="Path 667" d="M25.34,1.93a2.677,2.677,0,0,0-.4.169,2.62,2.62,0,0,0-1.394,2.33V36.7a2.62,2.62,0,0,0,1.394,2.329,2.71,2.71,0,0,0,.4.17L43.973,20.563Z" transform="translate(-23.549 -1.789)" fill="#32bbff"/>
+          <path id="Path_668" data-name="Path 668" d="M66.589,255.98,47.956,274.613a2.591,2.591,0,0,0,2.3-.3c10.532-5.9,17.455-9.769,21.868-12.23l.362-.2Z" transform="translate(-46.166 -237.206)" fill="#32bbff"/>
+        </g>
+        <path id="Path_669" data-name="Path 669" d="M23.549,255.98v16.134a2.62,2.62,0,0,0,1.394,2.33,2.718,2.718,0,0,0,.4.17L43.973,255.98Z" transform="translate(-23.549 -237.205)" fill="#2c9fd9"/>
+        <path id="Path_670" data-name="Path 670" d="M45.26.442a2.627,2.627,0,0,0-2.7-.131L61.307,19.057l6.176-6.176C63.121,10.441,56.12,6.523,45.26.442Z" transform="translate(-41.167 0)" fill="#29cc5e"/>
+        <path id="Path_671" data-name="Path 671" d="M61.307,252.126,42.561,270.872a2.609,2.609,0,0,0,2.7-.131c10.532-5.9,17.455-9.769,21.868-12.23l.362-.2Z" transform="translate(-41.167 -233.634)" fill="#d93f21"/>
+        <path id="Path_672" data-name="Path 672" d="M308.542,178.954a2.613,2.613,0,0,0-1.345-2.3s-1.672-.933-6.8-3.8l-6.1,6.1,6.1,6.1c5.069-2.846,6.792-3.806,6.792-3.806A2.613,2.613,0,0,0,308.542,178.954Z" transform="translate(-274.445 -160.179)" fill="#ffd500"/>
+        <path id="Path_673" data-name="Path 673" d="M307.2,258.277a2.613,2.613,0,0,0,1.345-2.3H294.3l6.1,6.1C305.475,259.236,307.2,258.277,307.2,258.277Z" transform="translate(-274.445 -237.205)" fill="#fa0"/>
+      </g>
+      <text id="Google_Playstore" data-name="Google Playstore" transform="translate(1566.84 55.612)" fill="#360083" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Google Playstore</tspan></text>
+    </g>
+  </g>
+</svg>
